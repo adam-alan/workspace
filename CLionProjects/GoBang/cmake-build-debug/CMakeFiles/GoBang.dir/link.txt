@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GoBang.dir/main.cpp.o CMakeFiles/GoBang.dir/GameState.cpp.o CMakeFiles/GoBang.dir/Player.cpp.o CMakeFiles/GoBang.dir/ComputerPlayer.cpp.o CMakeFiles/GoBang.dir/Evaluator.cpp.o  -o GoBang 

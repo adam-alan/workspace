@@ -1,0 +1,1 @@
+/usr/bin/clang++-6.0  -g   CMakeFiles/Test1.dir/main.cpp.o  -o Test1 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/net.dir/main.cpp.o  -o net 

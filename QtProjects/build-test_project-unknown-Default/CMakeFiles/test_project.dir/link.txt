@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7    -rdynamic CMakeFiles/test_project.dir/main.cpp.o  -o test_project 

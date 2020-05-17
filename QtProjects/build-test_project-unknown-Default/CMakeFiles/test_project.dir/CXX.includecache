@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhuxingtian/WorkingSpace/QtProjects/test_project/log_manger.h
+
+/home/zhuxingtian/WorkingSpace/QtProjects/test_project/main.cpp
+iostream
+-
+log_manger.h
+/home/zhuxingtian/WorkingSpace/QtProjects/test_project/log_manger.h
+

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="NetBase"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NetBase">
+				<Option output="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/NetBase" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 NetBase"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NetBase/fast">
+				<Option output="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/NetBase" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 NetBase/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/Reactor/Channel.cpp">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/Reactor/Channel.h">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/Reactor/EventLoop.cpp">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/Reactor/EventLoop.h">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/base/Buffer.cpp">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/base/Buffer.h">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/base/Copyable.h">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/base/NoCopyable.h">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/base/TimeStamp.cpp">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/base/TimeStamp.h">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/main.cpp">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/poller/PollPoller.cpp">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/poller/PollPoller.h">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/poller/Poller.cpp">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/poller/Poller.h">
+			<Option target="NetBase"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/Lodestar/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

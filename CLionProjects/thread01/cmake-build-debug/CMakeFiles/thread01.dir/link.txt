@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/thread01.dir/main.cpp.o CMakeFiles/thread01.dir/threadsafe_quene.cpp.o  -o thread01 

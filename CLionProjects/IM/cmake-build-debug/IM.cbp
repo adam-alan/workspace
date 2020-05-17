@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="IM"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IM">
+				<Option output="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/IM" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 IM"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IM/fast">
+				<Option output="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/IM" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 IM/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/zhuxingtian/WorkingSpace/CLionProjects/IM/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/echo.cpp">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/echo.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/main.cpp">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/AsyncLogging.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/AsyncLogging.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Atomic.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/BlockingQueue.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/BoundedBlockingQueue.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Condition.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Condition.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/CountDownLatch.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/CountDownLatch.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/CurrentThread.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/CurrentThread.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Date.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Date.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Exception.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Exception.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/FileUtil.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/FileUtil.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/GzipFile.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/LogFile.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/LogFile.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/LogStream.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/LogStream.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Logging.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Logging.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Mutex.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/ProcessInfo.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/ProcessInfo.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Singleton.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/StringPiece.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Thread.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Thread.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/ThreadLocal.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/ThreadLocalSingleton.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/ThreadPool.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/ThreadPool.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/TimeZone.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/TimeZone.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Timestamp.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Timestamp.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/Types.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/WeakCallback.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/base/noncopyable.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Acceptor.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Acceptor.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Buffer.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Buffer.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Callbacks.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Channel.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Channel.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Connector.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Connector.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Endian.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/EventLoop.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/EventLoop.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/EventLoopThread.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/EventLoopThread.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/EventLoopThreadPool.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/EventLoopThreadPool.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/InetAddress.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/InetAddress.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Poller.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Poller.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Socket.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Socket.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/SocketsOps.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/SocketsOps.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TcpClient.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TcpClient.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TcpConnection.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TcpConnection.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TcpServer.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TcpServer.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Timer.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/Timer.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TimerId.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TimerQueue.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/TimerQueue.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/ZlibStream.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/boilerplate.cc">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/muduo/net/boilerplate.h">
+			<Option target="IM"/>
+		</Unit>
+		<Unit filename="/home/zhuxingtian/WorkingSpace/CLionProjects/IM/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
